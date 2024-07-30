@@ -21,3 +21,7 @@ Now you can add your variables to the **test.env** file and run the following co
 ```bash
 $ npx env-wizard generate --missing
 ```
+
+## Contributing
+
+Author of the project is [Robert Julian Kratz](https://github.com/robert-kratz). Feel free to contribute to the project by opening an issue or a pull request. You can contact be via my Website [rjks.us](https://rjks.us).
